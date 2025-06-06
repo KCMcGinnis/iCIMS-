@@ -453,6 +453,7 @@ def create_streamlit_dashboard():
         - Candidate pipeline with sources and stages
         """)
 
-if __name__ == "__main__":
-    # For standalone execution
-    create_streamlit_dashboard()
+python
+
+# Run the dashboard
+create_streamlit_dashboard()
